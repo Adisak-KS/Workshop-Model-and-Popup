@@ -36,5 +36,5 @@ ___
 
 ### 💻 ตัวอย่างเว็บไซต์
 
-![index](https://github.com/Adisak-KS/)
-![index](https://github.com/Adisak-KS/)
+![index](https://github.com/Adisak-KS/Workshop-Model-and-Popup/blob/main/previews/pre-1.png)
+![index](https://github.com/Adisak-KS/Workshop-Model-and-Popup/blob/main/previews/pre-2.png)
